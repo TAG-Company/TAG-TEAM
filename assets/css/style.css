@@ -1727,9 +1727,9 @@ div#mCSB_1_container{
 /** banner-section **/
 
 .banner-section{
-  position: relative;
-  overflow: hidden;
-  padding-left: 125px;
+  /* position: relative; */
+  /* overflow: hidden; */
+  /* padding-left: 125px; */
   padding-bottom: 125px;
   background: #323232;
   border-bottom: 1px solid #333333;
